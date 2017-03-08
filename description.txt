@@ -1,0 +1,16 @@
+Un problème de classification car il y a trois classes  'high', 'medium', 'low' (category)
+
+bathrooms: number of bathrooms    numeric
+bedrooms: number of bathrooms     numeric
+building_id                       categorical
+created                           numeric 2016-06-24 07:54:24 -> need to convert it to a timestamp
+description                       text
+display_address                   text
+features: a list of features about this apartment words text
+latitude                          numeric
+listing_id                        numeric/categorical
+longitude                         numeric
+manager_id                        categorical
+photos: a list of photo links. You are welcome to download the pictures yourselves from renthop's site, but they are the same as imgs.zip. 
+price: in USD                     numeric
+street_address                    texte
